@@ -16,7 +16,7 @@ const Banner = () => {
             </div>
 
             <div className="items-center mt-10 ml-16  lg:mt-0  ">
-                <img  className=" w-44 lg:w-64 " src="/2bDzvyw28 (1).png" alt="" />
+                <img  className=" w-44 lg:w-64 " src="/public/2bDzvyw28 (1).png" alt="" />
             </div>
 
 
