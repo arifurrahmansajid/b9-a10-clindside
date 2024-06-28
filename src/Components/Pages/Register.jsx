@@ -62,21 +62,6 @@ const Register = () => {
         })
 
 
-
-
-
-        // createUser(email, password)
-        //     .then(result => {
-        //         console.log(result.user);
-        //         toast.success(' Registration SuccessFully => Please Log in !')
-        //         navigate (location?.state ? location.state : '/login' );
-        //     })
-        //     .catch(error => {
-        //         console.error(error);
-        //         toast.error('Registration Failed. Please check your Info');
-        //     })
-
-
     }
 
 
