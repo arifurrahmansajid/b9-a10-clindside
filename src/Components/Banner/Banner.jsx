@@ -6,7 +6,7 @@ const Banner = () => {
 
             <div>
                 <h2 className=" lg:text-4xl  font-bold">Connecting You to <br /> Tech Snap Marvels</h2>
-                <p className="  lg: mt-3 text-sm font-normal" > "Uncover the latest in mobile innovation. <br /> From smartphones to accessories, we <br /> explore it all. Stay updated  with reviews, <br />  tips, and trends. Your go-to source for <br /> everything phone tech." </p>
+                <p className="  lg: mt-3 text-sm font-normal" >Uncover the latest in mobile innovation. <br /> From smartphones to accessories, we <br /> explore it all. Stay updated  with reviews, <br />  tips, and trends. Your go-to source for <br /> everything phone tech. </p>
                  
                  <div className="">
   
