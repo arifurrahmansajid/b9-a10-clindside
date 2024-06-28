@@ -49,7 +49,7 @@ const logOutBtn = ()=>{
 
                         <div className="flex">
                             <GrTechnology className='w-10'></GrTechnology>
-                            <h2 className='ml-2 font-bold text-2xl'> Tech <span className='text-purple-600'>Chain</span> </h2>
+                            <h2 className='ml-2 font-bold text-2xl'> Tech <span className='text-purple-600'>Snaps</span> </h2>
 
                         </div>
                     </Link>
